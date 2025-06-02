@@ -1,14 +1,11 @@
-import React from 'react'
-import './App.css'
+import ToDoList from './ToDoList';
 
 function App() {
-  
-
   return (
     
-      <p>Hello</p>
-    
-  )
+    <ToDoList/>
+  
+  );
 }
 
-export default App
+export default App;
